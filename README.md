@@ -15,4 +15,4 @@
 Сделай свою студенческую жизнь организованной и эффективной! Добро пожаловать в цифровой ВГУИТ!
 
 Ссылка на сайт:https://nefugo.github.io/VSUET-Navigator/
-APK версия:[Скачать код](https://raw.githubusercontent.com/user/VSUET-Navigator/main/examples/code.cpp)     
+APK версия:[VSUET Navigator.apk](https://github.com/Nefugo/VSUET-Navigator/raw/refs/heads/main/VSUET%20Navigator.apk)
